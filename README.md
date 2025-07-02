@@ -29,12 +29,16 @@ com.example.tvapp
 ├── viewmodel # VideoViewModel with StateFlow  
 └── MainActivity.kt # App entry point and navigation
 
+---
+🎥 [Watch Demo Video](https://drive.google.com/file/d/1Z7njMneFV1TomUic262ZAVUrfOjO-Bde/view?usp=sharing)
 
 ---
 
 ## 🔑 API Setup
 
 This app uses the [Pexels Video API](https://www.pexels.com/api/documentation/#videos-search) which requires an API key.
+
+---
 
 ### To use your own key:
 1. Go to [Pexels](https://www.pexels.com/api/) and generate a free API key.
