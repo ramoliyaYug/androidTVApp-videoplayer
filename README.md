@@ -30,9 +30,18 @@ com.example.tvapp
 └── MainActivity.kt # App entry point and navigation
 
 ---
+## 📱 Download the APK
+
+You can download and install the latest version of the app from the link below:
+
+[📥 Download APK](https://drive.google.com/file/d/1NWTKvrYxsLlzJZZdQlx33sOBvN-ustMh/view?usp=sharing)
+
+---
 ## 🎥 Demo Video
 
-[click to watch video](https://drive.google.com/file/d/1NXFPaMOe04BA-v93SjacZKKVQiEwvnwj/view?usp=sharing)
+Watch a quick demo of the app in action:
+
+[▶️ Click here to watch the video](https://drive.google.com/file/d/1NXFPaMOe04BA-v93SjacZKKVQiEwvnwj/view?usp=sharing)
 
 ---
 
