@@ -29,6 +29,11 @@ com.example.tvapp
 ├── viewmodel # VideoViewModel with StateFlow  
 └── MainActivity.kt # App entry point and navigation
 
+---
+## 🎥 Demo Video
+
+https://github.com/user-attachments/assets/804bd2b0-6d7b-4181-a2b6-1e347577bdae
+
 
 ---
 
